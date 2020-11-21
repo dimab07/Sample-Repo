@@ -25,7 +25,8 @@ def mull(a, b):
 # add = wrap(add) - The equal to @wrap ; def add(a, b):
 # mul = wrap(mul) - The equal to @wrap ; def mul(a, b):
 
+
 a, b = 3, 5
 
-print(add(a, b))
-print(mull(a, b))
+add(a, b)
+mull(a, b)
