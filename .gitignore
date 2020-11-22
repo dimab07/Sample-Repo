@@ -2,3 +2,4 @@ venv
 .vscode
 .idea
 *.code-workspace
+__pycache__
